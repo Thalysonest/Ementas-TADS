@@ -1,0 +1,7 @@
+Introdução à linguagem orientada a objetos. 
+Estudo e utilização da sintaxe da linguagem orientada a objetos: variáveis, constantes, tipos de dados, expressões, controle do fluxo de execução, condições e métodos estáticos. 
+Definição e programação dos conceitos de orientação a objetos: classes (reais, abstratas), métodos (estáticos, abstratos e reais), construtores, atributos, modificadores de acesso, sobrecarga, interfaces, objetos, componentes, exceções, modificador final, modificador static, coletor de lixo (garbage collector). 
+Conceituação e prática com herança e polimorfismo. 
+Introdução à programação orientada a testes. 
+Utilização e programação em ambiente de desenvolvimento (IDE – Integrated Development Environment). 
+Estudo e desenvolvimento de aplicações com interface gráfica (GUI – Graphic User Interface): modelo de eventos, componentes e gerenciadores de layout.

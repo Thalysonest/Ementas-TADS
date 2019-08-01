@@ -1,0 +1,9 @@
+Estudo e programação com classes genéricas, aninhadas, anônimas e wrappers. 
+Estudo e programação com biblioteca e componentes para linguagem de programação orientada a objetos para persistência em banco de dados relacional. 
+Estudo e prática com mapeamento objeto-relacional por meio de padrão de projeto DAO (Data Access Object). 
+Estudo e programação para padrão de projeto e framework para persistência de objetos em banco de dados relacional. 
+Programação com várias linhas de execução (multi-threads): conceituação, criação de threads, sincronização, prioridade, problemas de divisão e conquista. 
+Estudo e programação com fluxos de entrada e saída de dados: arquivos, rede, memória. 
+Comunicação com Socket e Datagramas: bibliotecas de programação para comunicação de aplicações utilizando protocolos padrão de rede. 
+Estudo e programação de alguns padrões de projeto para programação. 
+Estudo e programação de uma aplicação com interface gráfica e persistência em banco dados utilizando os padrões e conceitos da disciplina.

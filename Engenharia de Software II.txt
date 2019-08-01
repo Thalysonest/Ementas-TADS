@@ -1,0 +1,12 @@
+a)	Introdução ao conceito de qualidade de software; 
+b)	Modelos de referência para qualidade no processo: CMMI-DEV, MPS.BR-SW; 
+c)	Modelo de referência para qualidade do produto: Norma ISO 25000; 
+d)	Qualidade em métodos ágeis de software; 
+e)	Métricas de software; 
+f)	Padrões e revisão de Software; 
+g)	Conceitos e atividades da gerência de configurações de software; 
+h)	Introdução ao teste de software e artefatos; 
+i)	Estratégias de Teste de Software; 
+j)	Técnicas de Teste de Software Caixa Branca; 
+k)	Técnicas de Teste de Software Caixa Preta; 
+l)	Testes automatizados de software;

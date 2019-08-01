@@ -1,0 +1,5 @@
+Conceituar banco de dados multidimensional. 
+Conceituar banco de dados distribuídos e paralelos. 
+Desenvolver projetos utilizando conceitos de banco de dados Multidimensional (DW) e/ou distribuídos e/ou paralelos. 
+Apresentação, teoria e utilização dos principais tecnologia do mercado 
+Comparação de tecnologias de armazenamento

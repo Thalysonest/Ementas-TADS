@@ -1,0 +1,9 @@
+Prática de modelagem ER 
+Prática de modelagem Relacional 
+Conceitos de Banco de Dados 
+Linguagem SQL (Comandos DDL, DML, Query) 
+Estudo e aplicação de metadados 
+Apresentação, teoria e utilização dos principais SGBDs do mercado 
+Interfaceamento 
+Projeto de Banco de Dados 
+Comparação de tecnologias de armazenamento

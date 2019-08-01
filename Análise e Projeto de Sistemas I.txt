@@ -1,0 +1,8 @@
+Introdução à análise orientada a objetos – Histórico da Análise de Sistemas 
+Conceitos de Objetos e Classes – Relação com objetos do mundo real. Software orientado a objetos. 
+Aplicação de objetos em soluções de problemas informatizados. 
+Relacionamento entre classes. 
+Conhecimento de softwares para manipulação de objetos. 
+Conceito de Caso de Uso. 
+Unified Modeling Language (UML). 
+Diagramas da UML: Diagrama de Classes, Diagrama de Objetos, Diagrama de Caso de Uso, Especificação de Caso de Uso, Conhecimento e utilização de ferramentas CASE para modelagem orientada a objetos.

@@ -1,0 +1,14 @@
+Manipulação de memória primária e secundária; 
+Introdução à Estrutura de Dados: Tipos de Dados Abstratos (TDA); 
+Manipulação de Listas Lineares estáticas, dinâmicas e encadeadas: operações, procedimentos e aplicações; 
+Manipulação de Lista Circular Encadeada; 
+Manipulação de Lista Duplamente Encadeada; 
+Manipulação de Lista Circular Duplamente Encadeada; 
+Trabalhando com cabeçalhos em listas encadeadas; 
+Tipos particulares de listas: pilha e fila; 
+Manipulação de Pilha estática, dinâmica e encadeada: operações, procedimentos e aplicações; 
+Manipulação de Fila estática, dinâmica e encadeada: operações, procedimentos e aplicações; 
+Métodos de Pesquisa de Dados; 
+Métodos de Classificação de Dados; 
+Avaliação e Comparação de Algoritmos de Busca e Ordenação; 
+Organização e manipulação de Arquivos.

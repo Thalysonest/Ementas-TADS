@@ -1,0 +1,7 @@
+- Conceitos e papeis envolvidos na engenharia de software; 
+- Modelos de processos de engenharia de software; 
+- Conceito de projeto de software; 
+- PMBOK (Planejamento de Atividades, Plano de Custos, Comunicação e Riscos, Acompanhamento do Projeto); 
+- Estimativas de Software: Pontos de Função e Pontos por Caso de Uso; 
+- Processos ágeis de engenharia de software (Gestão de projetos com Scrum; 
+Estimativas de Software em métodos ágeis; Acompanhamento dos projetos com Kanban)

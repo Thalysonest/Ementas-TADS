@@ -1,0 +1,7 @@
+1. Conceitos de Algoritmos e Projeto Estruturado: noções de lógica de programação e de algoritmos e concepção básica de Projeto Estruturado. 
+2. Declaração de variáveis, expressões, tipos de dados: noções gerais, peculiaridades da programação para inicializar/armazenar os dados. 
+3. Estruturas de Controle: sequenciais, alternativas e de repetição. 
+4. Modularização: divisão do programa em partes e suas chamadas. 
+5. Vetor: definição e noção de uso. 
+6. Matriz: definição e noção de uso. 
+7. Registro: definição e noção de uso.

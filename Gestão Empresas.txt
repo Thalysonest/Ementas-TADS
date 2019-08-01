@@ -1,0 +1,21 @@
+a-	Organizações como sistema e sua integração ao ambiente externo: 
+i.	Conceitos 
+ii.	Delimitações 
+iii.	Perspectiva de integração 
+b-	As funções ou fundamentos administrativos: planejamento, organização, direção e controle: 
+i.	Planejamento: conceitos e aplicações 
+ii.	Controle: conceitos e aplicações 
+iii.	Organização: conceitos e estruturas 
+iv.	Direção: conceitos e estilos 
+v.	Relação entre as operações administrativas 
+c-	Fundamentos e funções empresariais: marketing, recursos humanos, produção, logística e finanças. 
+i.	A razão do empreendimento empresarial e as funções administrativas 
+ii.	Conceitos fundamentais de Marketing 
+iii.	Conceitos fundamentais de Recursos Humanos 
+iv.	Conceitos fundamentais de Produção 
+v.	Conceitos fundamentais de Logística 
+vi.	Conceitos fundamentais de Finanças 
+d-	Organizações públicas e privadas e sua gestão. 
+i.	Diferenciações entre a organização pública e a privada 
+ii.	Gestão pública e seus fatores limitantes 
+iii.	Gestão privada e seus fatores limitantes

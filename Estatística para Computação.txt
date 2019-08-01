@@ -1,0 +1,18 @@
+Conceitos fundamentais e definições 
+Dados 
+Variáveis e seus tipos 
+Rol 
+Amplitude 
+Classes 
+Frequências 
+Amostragem 
+Intervalo de confiança 
+Simulação: sorteio aleatório de dados 
+Distribuição de Frequências 
+Apresentação Gráfica: Histograma Polígono de Frequência. 
+Média, Mediana e Moda 
+Quartis, Decis e Percentis 
+Variância, Desvio-Padrão e Coeficiente de Variação 
+Probabilidade Clássica e Probabilidade Condicional 
+Variáveis Aleatórias Discretas 
+Distribuições de Probabilidade: Geométrica, Binomial, Poisson e Hipergeométrica.

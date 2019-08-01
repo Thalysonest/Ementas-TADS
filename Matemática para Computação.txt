@@ -1,0 +1,6 @@
+Modalidades técnicas da linguagem matemática subsidiadas pela compreensão / construção do conhecimento. 
+Uso da teoria dos conjuntos para situar-se num mundo abstrato. Leitura e interpretação de simbologias. Operação com conjuntos. 
+Uso da linguagem matricial e das operações com matrizes, como instrumento para interpretar dados e soluções. 
+Contextualização e resolução sistemas de equações lineares. 
+Aplicação da álgebra linear, como linguagem que expressa o desenvolvimento do raciocínio, no processo de resolução de problemas. 
+Resolução de problemas a fim de desenvolver o raciocínio lógico-matemático.

@@ -1,0 +1,8 @@
+a) Representação dos processos de negócio. 
+b) Modelagem da arquitetura de negócio. 
+c) Visão de negócio. 
+d) Visão de processo de negócio. 
+e) Visão de estrutura de negócio. 
+f) Visão comportamental de negócio. 
+g) Regras de negócio. 
+h) A prática da modelagem de processos com UML e BPMN.

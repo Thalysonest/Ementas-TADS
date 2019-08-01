@@ -1,0 +1,9 @@
+1. O sistema jurídico brasileiro: noções gerais, normas jurídicas, fontes do direito, hierarquia das normas jurídicas. 
+2. Direito Público e Direito Privado: noções gerais, peculiaridades das áreas. 
+3. Direitos autorais: conceito, direitos autorais para sistemas de informação, a Lei 9.609/98 e seus aspectos principais. 
+4. Relação jurídica contratual: conceito de relação jurídica contratual, elementos da relação jurídica contratual – sujeito, objeto e forma. 
+5. Sujeitos do contrato: a pessoa física e sua regulamentação jurídica; a pessoa jurídica e sua regulamentação jurídica. 
+6. Objeto do contrato: comportamentos e bens, patrimônio, classificação dos bens. 
+7. Contratos: aspectos específicos dos contratos, fases de formação dos contratos, princípios, cláusulas abusivas. 
+8. Contrato de prestação de serviço: conceito, aspectos específicos. 
+9. Contratos eletrônicos: conceito, elementos específicos, espécies de provedor.

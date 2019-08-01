@@ -1,0 +1,10 @@
+a)	Conceitos e atividades envolvidas na governança de tecnologia da informação. 
+b)	Modelo de referência para governança de tecnologia da informação (Cobit). 
+c)	Conceitos e atividades para a gestão de serviços de tecnologia da informação. 
+d)	Modelo de referência para gestão de serviços de tecnologia da informação (ITIL). 
+e)	Conceitos básicos e metodologia de auditoria de sistemas; 
+f)	Técnicas e Ferramentas de Auditoria de Sistemas; 
+g)	Introdução à Segurança da Informação; 
+h)	Políticas, padrões e procedimentos de segurança da informação; 
+i)	Normas de Segurança ISO/IEC 27001 e 27002; 
+j)	Objetivos e práticas da tecnologia da informação verde (green IT);

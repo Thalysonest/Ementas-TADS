@@ -1,0 +1,7 @@
+Introdução à Interação Humano-Computador: Terminologia e fundamentos da Interação Humano Computador. Impacto das Tecnologias de Informação e Comunicação no cotidiano. IHC como área multidisciplinar. Benefícios de IHC. Conceitos básicos. 
+Fatores Humanos e Ergonomia: Perfis de usuários, Mecanismo da percepção humana, Modelos Mentais. Fundamentos da Ergonomia. Aplicações da Ergonomia em Sistemas Computacionais. Critérios Ergonômicos de Interação Humano-Computador. 
+Requisitos de IHC: Usabilidade, Colaboração, Comunicação, Acessibilidade e Internacionalização. Modelo de acessibilidade de Governo Eletrônico –eMAG. Design gráfico de Interfaces. Importância do uso de cores nas interfaces. 
+Estilos e paradigma de interação: Manipulação direta, formulários, linguagens visuais, ícones. 
+Fundamentos teóricos: Engenharia Cognitiva e Engenharia Semiótica. 
+Avaliação de IHC: Conceitos de avaliação. Processos e métodos de avaliação de IHC. 
+Processo de Design em IHC. Design da Interface, design centrado no usuário, storyboarding e prototipação.

@@ -1,0 +1,7 @@
+a)	Conceitos e papeis envolvidos na engenharia de requisitos; 
+b)	Tipos de coleta de requisitos; 
+c)	Trabalho colaborativo na coleta de requisitos; 
+d)	Formalização de requisitos, segundo métodos tradicionais e métodos ágeis; 
+e)	Formas de validação de requisitos; 
+f)	Rastreabilidade de requisitos, segundo métodos tradicionais e métodos ágeis; 
+g)	Requisitos emergentes;
